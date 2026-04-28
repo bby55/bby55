@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bby55&left_color=green&right_color=red)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bby55)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bby55)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bby55)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bby55)
 <!--
