@@ -1,4 +1,5 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=a general researcher focusing on computer architecture, integrated circuit design and FPGA;)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bby55)
