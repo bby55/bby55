@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=a general researcher focusing on computer architecture, integrated circuit design and FPGA;)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
 
 
 
